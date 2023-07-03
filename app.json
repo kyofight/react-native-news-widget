@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "news-widget",
-    "slug": "news-widget",
+    "name": "NewsWidget",
+    "slug": "NewsWidget",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
